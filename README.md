@@ -1,4 +1,6 @@
-# Python Project: Image to ASCII Art
+# Image to ASCII Art
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
      _                              _                         _ _
     (_)_ __ ___   __ _  __ _  ___  | |_ ___     __ _ ___  ___(_|_)
     | | '_ ` _ \ / _` |/ _` |/ _ \ | __/ _ \   / _` / __|/ __| | |
